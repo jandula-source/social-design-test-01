@@ -2,3 +2,6 @@
 
 Design Academy
 This is my first social testing repo
+
+About the Project
+It's a testing file
